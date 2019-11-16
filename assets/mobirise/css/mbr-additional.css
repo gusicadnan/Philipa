@@ -711,6 +711,24 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rI1TlhgpUP {
+  background-image: url("../../../assets/images/1.jpg");
+}
+.cid-rI1TlhgpUP h1 {
+  color: #616161;
+}
+.cid-rI1TlhgpUP h2,
+.cid-rI1TlhgpUP h3,
+.cid-rI1TlhgpUP p {
+  color: #767676;
+}
+.cid-rI1TlhgpUP .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rI1TlhgpUP H1 {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-rI1qhcQZAu .navbar {
   padding: .5rem 0;
   background: #333333;
